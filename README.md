@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://github.com/kioxli/Pybox2dlite/raw/main/demo.mp4
+<video src="https://github.com/user-attachments/assets/b3b90b25-7c70-4e23-b06c-e71c6f952af9" controls width="700"></video>
 
 ## 特点
 
